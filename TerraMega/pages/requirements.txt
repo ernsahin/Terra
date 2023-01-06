@@ -2,8 +2,8 @@ streamlit
 altair 
 pandas 
 numpy 
-plotly.express 
-plotly.graph_objects
-import ShroomDK
+plotly
+plotly
+ShroomDK
 json
  
