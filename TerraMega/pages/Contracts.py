@@ -8,6 +8,7 @@ from shroomdk import ShroomDK
 import json
 from pandas import json_normalize
 st.set_page_config(layout="wide")
+st.sidebar()
 # header = st.container()
 dataset= st.container()
 # features= st.container()
