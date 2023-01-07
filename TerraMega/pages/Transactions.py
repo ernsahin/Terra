@@ -12,6 +12,7 @@ st.set_page_config(layout="wide")
 dataset= st.container()
 # features= st.container()
 modelTraining= st.container()
+st.sidebar()
 api='53012785-d2f9-49a0-81a9-cdd22bc8a330'
 sdk = ShroomDK(api)
 st.markdown("<h1 style='text-align: center; color: Green;'> Transactions OF Terra </h1>", unsafe_allow_html=True)
